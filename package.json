@@ -2,8 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Shail Patel",
 	"dependencies": {
-		"express": "^4.14.0",
-		"firebase": "^9.17.1"
+		"express": "^4.14.0"
 	},
 	"main": "index.js",
 	"scripts": {
