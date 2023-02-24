@@ -1,6 +1,6 @@
 {
-	"author":"Shail Patel",
 	"name": "fcc-learn-npm-package-json",
+	"author":"Shail Patel",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
